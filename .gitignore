@@ -1,5 +1,6 @@
 # global
 .env
+.DS_Store
 
 # server
 .secret_key
